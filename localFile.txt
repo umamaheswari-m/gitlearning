@@ -7,3 +7,4 @@ adding commit 2
 adding commit 3 //going to remove
 adding commit 6
 adding commit 8
+adding commit 9
