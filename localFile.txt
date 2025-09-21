@@ -5,3 +5,4 @@ added new comment from
 adding commit 1
 adding commit 2
 adding commit 3 //going to remove
+adding commit 6
